@@ -1,4 +1,11 @@
-### Hi there 👋
+### Alexander9673
+Hi there! WAVE_EMOJI
+I'm Alexander, i am a 15 year old programmer that is from the Philippines.
+I code in multiple languages, such as **Rust**, **C**, **C++**, **NodeJS**, **Typescript** and **Python**
+I am also the developer for the first ever [Growtopia Private Server](https://github.com/GrowtopiaJS/Growtopia.js) in NodeJS  
+
+🔭 I'm currently working on an api with **Rust**
+📫 If you'd like to contact me, you can contact me via Discord: **Alexander#6398**
 
 <!--
 **Alexander9673/Alexander9673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
