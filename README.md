@@ -1,6 +1,6 @@
 ### Alexander9673
 Hi there! 👋  
-I'm Alexander, i am a 15 year old programmer that is from the Philippines.  
+I'm Alexander, i am a 15 year old programmer.  
 I code in multiple languages, such as **Rust**, **C**, **C++**, **NodeJS**, **Typescript** and **Python**  
 I am also the developer for the first ever [Growtopia Private Server](https://github.com/GrowtopiaJS/Growtopia.js) in NodeJS    
 
