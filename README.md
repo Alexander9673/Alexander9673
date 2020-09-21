@@ -4,7 +4,7 @@ I'm Alexander, i am a 15 year old programmer.
 I code in multiple languages, such as **Rust**, **C++**, **NodeJS**, **Typescript** and **Python**  
 I am also the developer for the first ever [Growtopia Private Server](https://github.com/GrowtopiaJS/Growtopia.js) in NodeJS    
 
-💼 I'm currently working on an Private Server with **C++** and **Typescript**  
+💼 I'm currently doing no projects, and am looking for a job.
 📫 If you'd like to contact me, you can contact me via Discord: **Alexander#6398**
 
 <!--
